@@ -1,0 +1,21 @@
+name: customCmds
+version: '${project.version}'
+main: luki.customcmds.CustomCmds
+api-version: '1.20'
+
+commands:
+  parkour:
+    description: "Gra, której celem jest zrzucenie pozostałych graczy z platform"
+    usage: /<command>
+  tridents:
+    description: "Gra, w której latasz na elytrach z trójzębami"
+    usage: /<command>
+  berek:
+    description: "Gra w TNT taga"
+    usage: /<command>
+  uhc:
+    description: "Włącza grę UHC z PvP lub bez"
+    usage: /<command>
+  reset:
+    description: "EMERGENCY RESET"
+    usage: /<command>

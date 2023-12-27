@@ -1,0 +1,6 @@
+# FOLDERS
+.idea/
+target/
+
+# FILES
+*.iml
